@@ -5,9 +5,13 @@ A web-based Faculty Feedback System that allows students to submit feedback for 
 
 Team 
 Akshay Bansal
+
 Rishu Rajput
+
 Vijit Verma
+
 Vatsal Verma
+
 Features
 
 Tech Stack
