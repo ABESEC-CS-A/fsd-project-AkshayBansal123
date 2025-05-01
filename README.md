@@ -3,7 +3,11 @@
 Faculty Feedback System
 A web-based Faculty Feedback System that allows students to submit feedback for faculty members. The system provides an easy-to-use interface for students to rate faculty based on various criteria and provides administrators and faculty with insightful feedback analytics.
 
-Table of Contents
+Team 
+Akshay Bansal
+Rishu Rajput
+Vijit Verma
+Vatsal Verma
 Features
 
 Tech Stack
